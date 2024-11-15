@@ -96,7 +96,6 @@
         // break Statement: Exits the loop or switch case.
         for (int i = 0; i < 5; i++) {
             if (i == 3) {
-                break; // Loop stops when i is 3
             }
             System.out.println("Break Example, i = " + i); // Outputs 0, 1, 2
         }
